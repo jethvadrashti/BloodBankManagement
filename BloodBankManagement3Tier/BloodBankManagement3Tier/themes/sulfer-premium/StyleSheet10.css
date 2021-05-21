@@ -1,0 +1,20 @@
+﻿.gv1 {
+    padding: 2px;
+    text-align: center;
+    width: 75%;
+    border: solid 1px #c1c1c1;
+}
+
+    .gv1 th {
+        padding: 2px;
+        text-align: center;
+        width: 150px;
+        border: solid 1px #c1c1c1;
+        color: white;
+    }
+
+.gv1 {
+    background-color: lime;
+    margin-left: 20%;
+    padding: 5px;
+}

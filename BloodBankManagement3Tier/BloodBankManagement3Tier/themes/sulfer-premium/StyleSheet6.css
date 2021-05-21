@@ -1,0 +1,27 @@
+﻿.container2 {
+    width: 400px;
+    height: 360px;
+    padding: 7px;
+    margin-left: 35%;
+    margin-top: 15%;
+    background-color: lightcoral;
+    color: white;
+    margin-top: 40px;
+}
+
+input[type=text], inpunt[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+.btn1 {
+    float: left;
+    width: 20%;
+    height: 100%;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+}

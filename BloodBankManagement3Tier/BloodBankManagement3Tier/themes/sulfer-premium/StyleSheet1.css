@@ -1,0 +1,25 @@
+﻿
+     .sb{
+        margin-top: 50px;
+        margin-left: 300px;
+    }
+
+    .gv1 td {
+        padding: 2px;
+        text-align: center;
+        width: 150px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .gv1 {
+        background-color: lime;
+    }
+
+        .gv1 th {
+            padding: 2px;
+            text-align: center;
+            width: 150px;
+            border: solid 1px #c1c1c1;
+            background-color: aqua;
+        }
+

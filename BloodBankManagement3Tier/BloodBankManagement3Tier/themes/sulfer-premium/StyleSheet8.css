@@ -1,0 +1,22 @@
+﻿#box {
+    padding: 20px;
+}
+
+.box2 {
+    float: left;
+    width: 220px;
+    height: 200px;
+    border: outset;
+    padding: 10px;
+    margin-left: 170px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: yellow;
+    background-color: red;
+}
+
+    .box2:hover {
+        outline: groove;
+    }
